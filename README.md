@@ -21,4 +21,25 @@
 
   ## 1. S3 bucket
 
+![S3 bucket](https://github.com/Faizan64/aws-s3-eventtriggering/assets/91891601/7ae9f3df-c2f4-4450-a5af-1ed53e6834bd)
+
+## 2. IAM Roles 
+
+![IAM roles](https://github.com/Faizan64/aws-s3-eventtriggering/assets/91891601/039c3a0e-fe90-4692-ba6f-ba2582bbdcd6)
+
+## 3. SNS 
+
+![SNS](https://github.com/Faizan64/aws-s3-eventtriggering/assets/91891601/295b1e5c-18cc-4763-bb39-bd29c27335b8)
+
+## 4. Lamda Function
+
+![lamda_fuction](https://github.com/Faizan64/aws-s3-eventtriggering/assets/91891601/a405f7d4-26ce-4836-b3a3-08c3d5e2a931)
+
+## 5. Email Notification (subcription confirmation and notification about data upload)
+
+![email](https://github.com/Faizan64/aws-s3-eventtriggering/assets/91891601/7b7f393e-fb01-467b-a30b-4fd094c5fd86)
+
+
+  
+
   
